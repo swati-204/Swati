@@ -2,7 +2,7 @@
  Hello, I'm Swati Kanwar!
 
 ### About Me
-I’m a passionate tech student in  with a strong interest in Web development. Currently pursuing my MCA. I’m constantly learning and building projects to expand my skills and contribute to meaningful work.
+I’m a passionate tech student with a strong interest in Web development. Currently pursuing my MCA. I’m constantly learning and building projects to expand my skills and contribute to meaningful work.
 
 - Actively contributing to open-source projects and participating in coding challenges
 
