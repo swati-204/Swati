@@ -1,10 +1,10 @@
-# Welcome to My GitHub Profile!
-# Hello, I'm [Swati Kanwar]!
+# Welcome to My GitHub Profile!!!!
+ Hello, I'm Swati Kanwar!
 
-### 👨‍🎓 About Me
+### About Me
 I’m a passionate tech student in  with a strong interest in [Web development]. Currently pursuing my [MCA]. I’m constantly learning and building projects to expand my skills and contribute to meaningful work.
 
-- 👨‍💻 Actively contributing to open-source projects and participating in coding challenges
+- Actively contributing to open-source projects and participating in coding challenges
 
 ### 🏆 Achievements
 - **Postman API Fundamentals Badge** – Completed the Postman API challenge with certification
@@ -18,7 +18,7 @@ I’m a passionate tech student in  with a strong interest in [Web development].
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+<img src="https://api.badgr.io/public/assertions/uMyvn_cuQi6UrSijqUtMbA?identity__email=swatikanwar1300%40gmail.com" width="100px" height="100px" />
 </div>
 
 ### 📫 Connect With Me
